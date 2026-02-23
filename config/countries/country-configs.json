@@ -8,5 +8,10 @@
     "administrativeAreaLabel": "Province",
     "postalCodeLabel": "Postal Code",
     "postalCodePattern": "^[A-Z]\\d[A-Z]\\s?\\d[A-Z]\\d$"
-  }
+  },
+  "CO":{
+    "administrativeAreaLabel": "Departamento",
+    "postalCodeLabel": "Postal Code",
+    "postalCodePattern": "^\\d{6}$"
+  }   
 }
